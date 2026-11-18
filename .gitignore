@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# IDE (Rider / Visual Studio / ReSharper)
+.idea/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+/_ReSharper.Caches/
+riderModule.iml
+
+# Test results
+[Tt]est[Rr]esult*/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Generated marking-code output
+marking-codes.txt
+
+# OS files
+Thumbs.db
+.DS_Store
